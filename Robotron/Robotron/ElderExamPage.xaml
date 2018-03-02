@@ -1,0 +1,77 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Robotron.ElderExamPage">
+    <ContentPage.Content>
+        <ScrollView>
+            <StackLayout Spacing="3">
+                <StackLayout Orientation="Horizontal" HorizontalOptions="Center">
+                    <Button Text="Старт/Финиш" FontSize="Large" BorderWidth="0"
+                        HorizontalOptions="StartAndExpand" VerticalOptions="CenterAndExpand"
+                        WidthRequest="70" HeightRequest="70"
+                        Image="Start.png"
+                        Clicked="OnStartFinishButton" />
+                    <Button Text = "Поворот кривой" FontSize="Large" BorderWidth="0"
+                        HorizontalOptions="StartAndExpand" VerticalOptions="CenterAndExpand"
+                        WidthRequest="70" HeightRequest="70"
+                        Image="Turn.png"
+                        Clicked="OnTurnButton" />
+                    <Button Text = "Перекрёсток" FontSize="Large" BorderWidth="0"
+                        HorizontalOptions="StartAndExpand" VerticalOptions="CenterAndExpand"
+                        WidthRequest="70" HeightRequest="70"
+                        Image="Cross.png"
+                        Clicked="OnCrossButton" />
+                    <Button Text = "Поворот прямой" FontSize="Large" BorderWidth="0"
+                        HorizontalOptions="StartAndExpand" VerticalOptions="CenterAndExpand"
+                        Image="RightTurn.png"
+                        WidthRequest="70" HeightRequest="70"
+                        Clicked="OnRightTurnButton" />
+                </StackLayout>
+                <StackLayout Orientation="Horizontal" HorizontalOptions="Center">
+                    <Button Text = "Прямая" FontSize="Large" BorderWidth="0"
+                        HorizontalOptions="StartAndExpand" VerticalOptions="CenterAndExpand"
+                        WidthRequest="70" HeightRequest="70"
+                        Image="Line.png"
+                        Clicked="OnLineButton" />
+                    <Button Text = "Кривая" FontSize="Large" BorderWidth="0"
+                        HorizontalOptions="StartAndExpand" VerticalOptions="CenterAndExpand"
+                        WidthRequest="70" HeightRequest="70"
+                        Image="Curve.png"
+                        Clicked="OnCurveButton" />
+                    <Button Text = "Зебра" FontSize="Large" BorderWidth="0"
+                        HorizontalOptions="StartAndExpand" VerticalOptions="CenterAndExpand"
+                        WidthRequest="70" HeightRequest="70"
+                        Image="Zebra.png"
+                        Clicked="OnZebraButton" />
+                    <Button Text = "Захват банки/Доставка банки" FontSize="Large" BorderWidth="0"
+                        HorizontalOptions="StartAndExpand" VerticalOptions="CenterAndExpand"
+                        WidthRequest="70" HeightRequest="70"
+                        Image="Taking.png"
+                        Clicked="OnTakingButton" />
+                </StackLayout>
+                <StackLayout Orientation="Horizontal" HorizontalOptions="Center">
+                    <Button Text = "Диагональ с инверсией" FontSize="Large" BorderWidth="0"
+                        HorizontalOptions="StartAndExpand" VerticalOptions="CenterAndExpand"
+                        WidthRequest="70" HeightRequest="70"
+                        Image="Diagonal.png"
+                        Clicked="OnDiagonalButton" />
+                    <Button Text = "Разветвление" FontSize="Large" BorderWidth="0"
+                        HorizontalOptions="StartAndExpand" VerticalOptions="CenterAndExpand"
+                        WidthRequest="70" HeightRequest="70"
+                        Image="Branch.png"
+                        Clicked="OnBrunchButton" />
+                    <Button Text = "Перекрёсток с инверсией" FontSize="Large" BorderWidth="0"
+                        HorizontalOptions="StartAndExpand" VerticalOptions="CenterAndExpand"
+                        WidthRequest="70" HeightRequest="70"
+                        Image="CrossWithInversion.png"
+                        Clicked="OnCrossWithInversionButton" />
+                </StackLayout>
+                <Button x:Name="StartTimerButton" Text = "Старт" FontSize="Large" BorderWidth="1"
+                    BackgroundColor="GreenYellow"
+                    HorizontalOptions="StartAndExpand" VerticalOptions="CenterAndExpand"
+                    Clicked="OnStopButton" />
+                <Label x:Name="TimeField" Text="00:00:00" FontSize="Large" TextColor="Red" />
+            </StackLayout>
+        </ScrollView>
+    </ContentPage.Content>
+</ContentPage>

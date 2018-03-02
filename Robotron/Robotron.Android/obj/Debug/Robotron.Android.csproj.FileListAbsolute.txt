@@ -1,0 +1,119 @@
+C:\Users\moxsl\source\repos\Robotron\Robotron\Robotron.Android\bin\Debug\Robotron.Android.dll
+C:\Users\moxsl\source\repos\Robotron\Robotron\Robotron.Android\bin\Debug\Robotron.Android.pdb
+C:\Users\moxsl\source\repos\Robotron\Robotron\Robotron.Android\bin\Debug\com.companyname.Robotron.apk
+C:\Users\moxsl\source\repos\Robotron\Robotron\Robotron.Android\bin\Debug\com.companyname.Robotron-Signed.apk
+C:\Users\moxsl\source\repos\Robotron\Robotron\Robotron.Android\bin\Debug\Robotron.dll
+C:\Users\moxsl\source\repos\Robotron\Robotron\Robotron.Android\bin\Debug\Robotron.pdb
+C:\Users\moxsl\source\repos\Robotron\Robotron\Robotron.Android\obj\Debug\Robotron.Android.csprojResolveAssemblyReference.cache
+C:\Users\moxsl\source\repos\Robotron\Robotron\Robotron.Android\obj\Debug\Robotron.Android.csproj.CoreCompileInputs.cache
+C:\Users\moxsl\source\repos\Robotron\Robotron\Robotron.Android\obj\Debug\Robotron.Android.dll
+C:\Users\moxsl\source\repos\Robotron\Robotron\Robotron.Android\obj\Debug\Robotron.Android.pdb
+C:\Users\moxsl\source\repos\Robotron\Robotron\Robotron.Android\obj\Debug\android\bin\com.companyname.Robotron.apk
+C:\Users\moxsl\source\repos\Robotron\Robotron\Robotron.Android\obj\Debug\res\drawable\icon.png
+C:\Users\moxsl\source\repos\Robotron\Robotron\Robotron.Android\obj\Debug\res\drawable-hdpi\icon.png
+C:\Users\moxsl\source\repos\Robotron\Robotron\Robotron.Android\obj\Debug\res\drawable-xhdpi\icon.png
+C:\Users\moxsl\source\repos\Robotron\Robotron\Robotron.Android\obj\Debug\res\drawable-xxhdpi\icon.png
+C:\Users\moxsl\source\repos\Robotron\Robotron\Robotron.Android\obj\Debug\res\layout\tabbar.xml
+C:\Users\moxsl\source\repos\Robotron\Robotron\Robotron.Android\obj\Debug\res\layout\toolbar.xml
+C:\Users\moxsl\source\repos\Robotron\Robotron\Robotron.Android\obj\Debug\res\values\styles.xml
+C:\Users\moxsl\source\repos\Robotron\Robotron\Robotron.Android\obj\Debug\R.cs.flag
+C:\Users\moxsl\source\repos\Robotron\Robotron\Robotron.Android\obj\Debug\uploadflags.txt
+C:\Users\moxsl\source\repos\Robotron\Robotron\Robotron.Android\bin\Debug\FormsViewGroup.dll.mdb
+C:\Users\moxsl\source\repos\Robotron\Robotron\Robotron.Android\bin\Debug\Robotron.Android.dll.mdb
+C:\Users\moxsl\source\repos\Robotron\Robotron\Robotron.Android\bin\Debug\Xamarin.Forms.Core.dll.mdb
+C:\Users\moxsl\source\repos\Robotron\Robotron\Robotron.Android\bin\Debug\Xamarin.Forms.Platform.Android.dll.mdb
+C:\Users\moxsl\source\repos\Robotron\Robotron\Robotron.Android\bin\Debug\Xamarin.Forms.Xaml.dll.mdb
+C:\Users\moxsl\source\repos\Robotron\Robotron\Robotron.Android\obj\Debug\android\assets\FormsViewGroup.dll.mdb
+C:\Users\moxsl\source\repos\Robotron\Robotron\Robotron.Android\obj\Debug\android\assets\Robotron.Android.dll.mdb
+C:\Users\moxsl\source\repos\Robotron\Robotron\Robotron.Android\obj\Debug\android\assets\Xamarin.Forms.Core.dll.mdb
+C:\Users\moxsl\source\repos\Robotron\Robotron\Robotron.Android\obj\Debug\android\assets\Xamarin.Forms.Platform.Android.dll.mdb
+C:\Users\moxsl\source\repos\Robotron\Robotron\Robotron.Android\obj\Debug\android\assets\Xamarin.Forms.Xaml.dll.mdb
+E:\Study\Projects VS\Robotron\Robotron\Robotron.Android\bin\Debug\Robotron.Android.dll
+E:\Study\Projects VS\Robotron\Robotron\Robotron.Android\bin\Debug\Robotron.Android.pdb
+E:\Study\Projects VS\Robotron\Robotron\Robotron.Android\bin\Debug\com.companyname.Robotron.apk
+E:\Study\Projects VS\Robotron\Robotron\Robotron.Android\bin\Debug\com.companyname.Robotron-Signed.apk
+E:\Study\Projects VS\Robotron\Robotron\Robotron.Android\bin\Debug\Robotron.dll
+E:\Study\Projects VS\Robotron\Robotron\Robotron.Android\bin\Debug\Robotron.pdb
+E:\Study\Projects VS\Robotron\Robotron\Robotron.Android\obj\Debug\Robotron.Android.csprojResolveAssemblyReference.cache
+E:\Study\Projects VS\Robotron\Robotron\Robotron.Android\obj\Debug\Robotron.Android.csproj.CoreCompileInputs.cache
+E:\Study\Projects VS\Robotron\Robotron\Robotron.Android\obj\Debug\Robotron.Android.dll
+E:\Study\Projects VS\Robotron\Robotron\Robotron.Android\obj\Debug\Robotron.Android.pdb
+E:\Study\Projects VS\Robotron\Robotron\Robotron.Android\obj\Debug\android\bin\com.companyname.Robotron.apk
+E:\Study\Projects VS\Robotron\Robotron\Robotron.Android\obj\Debug\res\drawable\icon.png
+E:\Study\Projects VS\Robotron\Robotron\Robotron.Android\obj\Debug\res\drawable-hdpi\icon.png
+E:\Study\Projects VS\Robotron\Robotron\Robotron.Android\obj\Debug\res\drawable-xhdpi\icon.png
+E:\Study\Projects VS\Robotron\Robotron\Robotron.Android\obj\Debug\res\drawable-xxhdpi\icon.png
+E:\Study\Projects VS\Robotron\Robotron\Robotron.Android\obj\Debug\res\layout\tabbar.xml
+E:\Study\Projects VS\Robotron\Robotron\Robotron.Android\obj\Debug\res\layout\toolbar.xml
+E:\Study\Projects VS\Robotron\Robotron\Robotron.Android\obj\Debug\res\values\styles.xml
+E:\Study\Projects VS\Robotron\Robotron\Robotron.Android\obj\Debug\R.cs.flag
+E:\Study\Projects VS\Robotron\Robotron\Robotron.Android\obj\Debug\uploadflags.txt
+E:\Study\Projects VS\Robotron\Robotron\Robotron.Android\bin\Debug\FormsViewGroup.dll.mdb
+E:\Study\Projects VS\Robotron\Robotron\Robotron.Android\bin\Debug\Robotron.Android.dll.mdb
+E:\Study\Projects VS\Robotron\Robotron\Robotron.Android\bin\Debug\Xamarin.Forms.Core.dll.mdb
+E:\Study\Projects VS\Robotron\Robotron\Robotron.Android\bin\Debug\Xamarin.Forms.Platform.Android.dll.mdb
+E:\Study\Projects VS\Robotron\Robotron\Robotron.Android\bin\Debug\Xamarin.Forms.Xaml.dll.mdb
+E:\Study\Projects VS\Robotron\Robotron\Robotron.Android\obj\Debug\android\assets\FormsViewGroup.dll.mdb
+E:\Study\Projects VS\Robotron\Robotron\Robotron.Android\obj\Debug\android\assets\Robotron.Android.dll.mdb
+E:\Study\Projects VS\Robotron\Robotron\Robotron.Android\obj\Debug\android\assets\Xamarin.Forms.Core.dll.mdb
+E:\Study\Projects VS\Robotron\Robotron\Robotron.Android\obj\Debug\android\assets\Xamarin.Forms.Platform.Android.dll.mdb
+E:\Study\Projects VS\Robotron\Robotron\Robotron.Android\obj\Debug\android\assets\Xamarin.Forms.Xaml.dll.mdb
+E:\Study\Projects VS\Robotron\Robotron\Robotron.Android\obj\Debug\res\drawable\branch.png
+E:\Study\Projects VS\Robotron\Robotron\Robotron.Android\obj\Debug\res\drawable\cross.png
+E:\Study\Projects VS\Robotron\Robotron\Robotron.Android\obj\Debug\res\drawable\crosswithinversion.png
+E:\Study\Projects VS\Robotron\Robotron\Robotron.Android\obj\Debug\res\drawable\curve.png
+E:\Study\Projects VS\Robotron\Robotron\Robotron.Android\obj\Debug\res\drawable\diagonal.png
+E:\Study\Projects VS\Robotron\Robotron\Robotron.Android\obj\Debug\res\drawable\line.png
+E:\Study\Projects VS\Robotron\Robotron\Robotron.Android\obj\Debug\res\drawable\rightturn.png
+E:\Study\Projects VS\Robotron\Robotron\Robotron.Android\obj\Debug\res\drawable\start.png
+E:\Study\Projects VS\Robotron\Robotron\Robotron.Android\obj\Debug\res\drawable\taking.png
+E:\Study\Projects VS\Robotron\Robotron\Robotron.Android\obj\Debug\res\drawable\turn.png
+E:\Study\Projects VS\Robotron\Robotron\Robotron.Android\obj\Debug\res\drawable\zebra.png
+E:\Study\Projects VS\Robotron\Robotron\Robotron.Android\obj\Debug\res\drawable\detour.png
+E:\Study\Projects VS\Robotron\Robotron\Robotron.Android\bin\Debug\Robotron.Android.dll
+bin\Debug\FormsViewGroup.dll.mdb
+bin\Debug\Xamarin.Forms.Core.dll.mdb
+bin\Debug\Xamarin.Forms.Platform.Android.dll.mdb
+bin\Debug\Xamarin.Forms.Xaml.dll.mdb
+bin\Debug\Mono.Android.pdb
+bin\Debug\mscorlib.pdb
+bin\Debug\System.Core.pdb
+bin\Debug\System.pdb
+bin\Debug\System.Xml.pdb
+bin\Debug\System.Xml.Linq.pdb
+bin\Debug\System.Net.Http.pdb
+bin\Debug\System.Runtime.Serialization.pdb
+bin\Debug\System.ServiceModel.Internals.pdb
+bin\Debug\System.Data.pdb
+bin\Debug\System.Numerics.pdb
+bin\Debug\System.Transactions.pdb
+bin\Debug\Mono.Data.Tds.pdb
+bin\Debug\Mono.Security.pdb
+bin\Debug\System.IO.Compression.pdb
+bin\Debug\System.IO.Compression.FileSystem.pdb
+bin\Debug\System.ComponentModel.Composition.pdb
+bin\Debug\System.Web.Services.pdb
+obj\Debug\linksrc\Robotron.Android.dll.mdb
+obj\Debug\linksrc\FormsViewGroup.dll.mdb
+obj\Debug\linksrc\Xamarin.Forms.Core.dll.mdb
+obj\Debug\linksrc\Xamarin.Forms.Platform.Android.dll.mdb
+obj\Debug\linksrc\Xamarin.Forms.Xaml.dll.mdb
+obj\Debug\linksrc\Mono.Android.pdb
+obj\Debug\linksrc\mscorlib.pdb
+obj\Debug\linksrc\Robotron.pdb
+obj\Debug\linksrc\System.Core.pdb
+obj\Debug\linksrc\System.pdb
+obj\Debug\linksrc\System.Xml.pdb
+obj\Debug\linksrc\System.Xml.Linq.pdb
+obj\Debug\linksrc\System.Net.Http.pdb
+obj\Debug\linksrc\System.Runtime.Serialization.pdb
+obj\Debug\linksrc\System.ServiceModel.Internals.pdb
+obj\Debug\linksrc\System.Data.pdb
+obj\Debug\linksrc\System.Numerics.pdb
+obj\Debug\linksrc\System.Transactions.pdb
+obj\Debug\linksrc\Mono.Data.Tds.pdb
+obj\Debug\linksrc\Mono.Security.pdb
+obj\Debug\linksrc\System.IO.Compression.pdb
+obj\Debug\linksrc\System.IO.Compression.FileSystem.pdb
+obj\Debug\linksrc\System.ComponentModel.Composition.pdb
+obj\Debug\linksrc\System.Web.Services.pdb

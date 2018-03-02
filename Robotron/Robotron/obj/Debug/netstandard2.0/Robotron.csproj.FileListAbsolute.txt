@@ -1,0 +1,28 @@
+C:\Users\moxsl\source\repos\Robotron\Robotron\Robotron\bin\Debug\netstandard2.0\Robotron.deps.json
+C:\Users\moxsl\source\repos\Robotron\Robotron\Robotron\bin\Debug\netstandard2.0\Robotron.dll
+C:\Users\moxsl\source\repos\Robotron\Robotron\Robotron\bin\Debug\netstandard2.0\Robotron.pdb
+C:\Users\moxsl\source\repos\Robotron\Robotron\Robotron\obj\Debug\netstandard2.0\Robotron.csprojResolveAssemblyReference.cache
+C:\Users\moxsl\source\repos\Robotron\Robotron\Robotron\obj\Debug\netstandard2.0\Robotron.csproj.CoreCompileInputs.cache
+C:\Users\moxsl\source\repos\Robotron\Robotron\Robotron\obj\Debug\netstandard2.0\Robotron.App.xaml.g.cs
+C:\Users\moxsl\source\repos\Robotron\Robotron\Robotron\obj\Debug\netstandard2.0\Robotron.MainPage.xaml.g.cs
+C:\Users\moxsl\source\repos\Robotron\Robotron\Robotron\obj\Debug\netstandard2.0\Robotron.AssemblyInfoInputs.cache
+C:\Users\moxsl\source\repos\Robotron\Robotron\Robotron\obj\Debug\netstandard2.0\Robotron.AssemblyInfo.cs
+C:\Users\moxsl\source\repos\Robotron\Robotron\Robotron\obj\Debug\netstandard2.0\Robotron.dll
+C:\Users\moxsl\source\repos\Robotron\Robotron\Robotron\obj\Debug\netstandard2.0\Robotron.pdb
+E:\Study\Projects VS\Robotron\Robotron\Robotron\bin\Debug\netstandard2.0\Robotron.deps.json
+E:\Study\Projects VS\Robotron\Robotron\Robotron\bin\Debug\netstandard2.0\Robotron.dll
+E:\Study\Projects VS\Robotron\Robotron\Robotron\bin\Debug\netstandard2.0\Robotron.pdb
+E:\Study\Projects VS\Robotron\Robotron\Robotron\obj\Debug\netstandard2.0\Robotron.csprojResolveAssemblyReference.cache
+E:\Study\Projects VS\Robotron\Robotron\Robotron\obj\Debug\netstandard2.0\Robotron.csproj.CoreCompileInputs.cache
+E:\Study\Projects VS\Robotron\Robotron\Robotron\obj\Debug\netstandard2.0\Robotron.App.xaml.g.cs
+E:\Study\Projects VS\Robotron\Robotron\Robotron\obj\Debug\netstandard2.0\Robotron.ElderHomePage.xaml.g.cs
+E:\Study\Projects VS\Robotron\Robotron\Robotron\obj\Debug\netstandard2.0\Robotron.MainPage.xaml.g.cs
+E:\Study\Projects VS\Robotron\Robotron\Robotron\obj\Debug\netstandard2.0\Robotron.AssemblyInfoInputs.cache
+E:\Study\Projects VS\Robotron\Robotron\Robotron\obj\Debug\netstandard2.0\Robotron.AssemblyInfo.cs
+E:\Study\Projects VS\Robotron\Robotron\Robotron\obj\Debug\netstandard2.0\Robotron.dll
+E:\Study\Projects VS\Robotron\Robotron\Robotron\obj\Debug\netstandard2.0\Robotron.pdb
+E:\Study\Projects VS\Robotron\Robotron\Robotron\obj\Debug\netstandard2.0\Robotron.ElderExamPage.xaml.g.cs
+E:\Study\Projects VS\Robotron\Robotron\Robotron\obj\Debug\netstandard2.0\Robotron.YoungerExamPage.xaml.g.cs
+E:\Study\Projects VS\Robotron\Robotron\Robotron\obj\Debug\netstandard2.0\Robotron.YoungerHomePage.xaml.g.cs
+E:\Study\Projects VS\Robotron\Robotron\Robotron\obj\Debug\netstandard2.0\Robotron.Properties.Resources.resources
+E:\Study\Projects VS\Robotron\Robotron\Robotron\obj\Debug\netstandard2.0\Robotron.csproj.GenerateResource.Cache

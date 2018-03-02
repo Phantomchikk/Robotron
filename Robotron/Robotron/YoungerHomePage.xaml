@@ -1,0 +1,58 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Robotron.YoungerHomePage">
+    <ContentPage.Content>
+        <ScrollView>
+            <StackLayout Spacing="3">
+                <StackLayout Orientation="Horizontal" Spacing="2">
+                    <Button Text="Цветовой сигнал" FontSize="Medium" BorderWidth="1"
+                        HorizontalOptions="StartAndExpand" VerticalOptions="CenterAndExpand"
+                        WidthRequest="179" HeightRequest="70"
+                        Clicked="OnM1Button" />
+                    <Button Text = "Звуковой сигнал" FontSize="Medium" BorderWidth="1"
+                        HorizontalOptions="StartAndExpand" VerticalOptions="CenterAndExpand"
+                        WidthRequest="179" HeightRequest="70"
+                        Clicked="OnM2Button" />
+                </StackLayout>
+                <StackLayout Orientation="Horizontal" Spacing="2">
+                    <Button Text = "К месту загрузки" FontSize="Medium" BorderWidth="1"
+                        HorizontalOptions="StartAndExpand" VerticalOptions="CenterAndExpand"
+                        WidthRequest="179" HeightRequest="70"
+                        Clicked="OnM3Button" />
+                    <Button Text = "Загрузка" FontSize="Medium" BorderWidth="1"
+                        HorizontalOptions="StartAndExpand" VerticalOptions="CenterAndExpand"
+                        WidthRequest="179" HeightRequest="70"
+                        Clicked="OnM4Button" />
+                </StackLayout>
+                <StackLayout Orientation="Horizontal" Spacing="2">
+                    <Button Text = "К месту выгрузки" FontSize="Medium" BorderWidth="1"
+                        HorizontalOptions="StartAndExpand" VerticalOptions="CenterAndExpand"
+                        WidthRequest="179" HeightRequest="70"
+                        Clicked="OnM5Button" />
+                    <Button Text = "Выгрузка" FontSize="Medium" BorderWidth="1"
+                        HorizontalOptions="StartAndExpand" VerticalOptions="CenterAndExpand"
+                        WidthRequest="179" HeightRequest="70"
+                        Clicked="OnM6Button" />
+                </StackLayout>
+                <StackLayout Orientation="Horizontal" Spacing="2">
+                    <Button Text = "Проезд к старту" FontSize="Medium" BorderWidth="1"
+                        HorizontalOptions="StartAndExpand" VerticalOptions="CenterAndExpand"
+                        WidthRequest="179" HeightRequest="70"
+                        Clicked="OnM7Button" />
+                    <Button Text = "Затраченное время" FontSize="Medium" BorderWidth="1"
+                        HorizontalOptions="StartAndExpand" VerticalOptions="CenterAndExpand"
+                        WidthRequest="179" HeightRequest="70"
+                        Clicked="OnM8Button" />
+                </StackLayout>
+
+                <Button x:Name="StartTimerButton" Text = "Старт" FontSize="Medium" BorderWidth="1"
+                    BackgroundColor="GreenYellow"
+                    HorizontalOptions="StartAndExpand" VerticalOptions="CenterAndExpand"
+                    WidthRequest="360" HeightRequest="70"
+                    Clicked="OnStopButton" />
+                <Label x:Name="TimeField" Text="00:00:00" FontSize="Large" TextColor="Red" />
+            </StackLayout>
+        </ScrollView>
+    </ContentPage.Content>
+</ContentPage>
